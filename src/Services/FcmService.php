@@ -1,6 +1,6 @@
 <?php
 
-namespace Bluex\Fcm\Channels;
+namespace Bluex\Fcm\Serices;
 
 use Illuminate\Notifications\Notification;
 
