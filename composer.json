@@ -25,5 +25,12 @@
     },
     "config": {
         "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bluex\\Fcm\\Providers\\FcmServiceProvider"
+            ]
+        }
     }
 }
